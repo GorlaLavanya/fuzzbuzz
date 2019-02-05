@@ -14,4 +14,4 @@ For that (source.py)contains code
 
 I show that sampleresult of this program in"result.txt"
 
-RUN COMMAND:python filename.py
+RUN COMMAND:python source.py
