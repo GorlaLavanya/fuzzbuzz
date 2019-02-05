@@ -1,4 +1,6 @@
 This pythonfile contains a simple game
+
+
 RULES FOR THE GAME
 In this game wherever multiple of "3" occurs print "fuzz"
 wherever multiple of "5" occurs print "buzz"
